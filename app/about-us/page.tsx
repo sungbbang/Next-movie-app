@@ -4,10 +4,10 @@ export const metadata: Metadata = {
   title: "About Us",
 };
 
-export default function AboutUs() {
+export default function AboutUsPage() {
   return (
-    <div>
-      <h1>about us</h1>
+    <div style={{ textAlign: "center" }}>
+      <h1>This page is about us page</h1>
     </div>
   );
 }

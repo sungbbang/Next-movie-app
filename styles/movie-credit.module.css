@@ -1,0 +1,14 @@
+.credit {
+  text-align: center;
+}
+
+.credit img {
+  width: 200px;
+  height: 300px;
+  border-radius: 10px;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.credit span {
+  display: block;
+}

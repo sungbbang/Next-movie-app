@@ -1,0 +1,33 @@
+.provider {
+  margin-bottom: 30px;
+}
+
+.provider h3 {
+  font-weight: 800;
+  font-size: 30px;
+}
+
+.provider ul {
+  display: flex;
+}
+
+.provider ul li {
+  list-style: none;
+  transform: none;
+  padding-right: 10px;
+}
+
+.container {
+  padding-bottom: 20px;
+}
+
+.container span {
+  display: block;
+  padding: 10px 0;
+}
+
+.container img {
+  border-radius: 10px;
+  width: 50px;
+  height: 50px;
+}
